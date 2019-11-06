@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Music.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Music.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="王者荣耀连连看.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\王者资源库\星空梦想-鲁班七号.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\后羿.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\狗年限定皮肤壁纸-后羿杨戬.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\李白.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\凯.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\韩信.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\王昭君.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\妲己.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\蔡文姬.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\安琪拉.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\宫本武藏.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\貂蝉.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\阿轲.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\亚瑟.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\狄仁杰.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\小乔.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\项羽.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\吕布.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\花木兰.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\雅典娜.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\defeat.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\victory.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\程咬金—功夫厨神.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\韩信-白龙吟.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\花木兰-青春决赛季.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\夏侯惇-乘风破浪.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\神奇女侠-雅典娜.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\孙悟空-至尊宝.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\李白-凤求凰.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\武陵仙君-诸葛亮.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\后羿-黄金射手座.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\甄姬-游园惊梦.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\王者开始游戏界面.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\王者.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\exit.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\pause.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\start.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\王者.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\梦奇-胖达荣荣.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\伽罗·花见巫女.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\闯关模式.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\王者资源库\无限模式.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image1.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="image4.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\王者资源库\image3.bin">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\王者资源库\defeat.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="..\王者资源库\victory.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="..\王者资源库\消除音乐.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="..\王者资源库\王者荣耀游戏王者战歌.mp3" />
+  </ItemGroup>
+</Project>
